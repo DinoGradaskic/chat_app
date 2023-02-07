@@ -2,7 +2,7 @@ import React from 'react';
 import MyMessage from './MyMessage';
 import TheirMessage from './TheirMessage';
 import MessageForm from './MessageForm';
-// save
+
 const ChatFeed = (props) => {
   const { chats, activeChat, userName, messages } = props;
 
