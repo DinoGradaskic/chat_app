@@ -39,6 +39,7 @@ const Modal = () => {
             </button>
           </div>
         </form>
+        <h4>To login use Admin:admin or User:user credentials</h4>
         <h1>{error}</h1>
       </div>
     </div>
